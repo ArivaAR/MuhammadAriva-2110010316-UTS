@@ -1,0 +1,5 @@
+No	Tanggal	Waktu	Isi Agenda	Tanda
+1*	24/11/2023	08:22	Kuliah	
+2*	24/01/2023	08:22	Kuliah	
+3*	12/11/2023	08:22	Kuliah	✓
+4	23/04/2014	08:25	Belajar	
